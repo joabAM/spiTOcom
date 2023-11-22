@@ -1,2 +1,2 @@
 # spiTOcom
-interface to RF24L01 with arduino to serial
+simple interface to RF24L01 with arduino to serial
